@@ -1,0 +1,12 @@
+C:\Users\38971\source\repos\CargoForYou.Data\bin\Debug\netcoreapp3.1\CargoForYou.Data.deps.json
+C:\Users\38971\source\repos\CargoForYou.Data\bin\Debug\netcoreapp3.1\CargoForYou.Data.dll
+C:\Users\38971\source\repos\CargoForYou.Data\bin\Debug\netcoreapp3.1\CargoForYou.Data.pdb
+C:\Users\38971\source\repos\CargoForYou.Data\bin\Debug\netcoreapp3.1\CargoForYou.Entities.dll
+C:\Users\38971\source\repos\CargoForYou.Data\bin\Debug\netcoreapp3.1\CargoForYou.Entities.pdb
+C:\Users\38971\source\repos\CargoForYou.Data\obj\Debug\netcoreapp3.1\CargoForYou.Data.csproj.AssemblyReference.cache
+C:\Users\38971\source\repos\CargoForYou.Data\obj\Debug\netcoreapp3.1\CargoForYou.Data.AssemblyInfoInputs.cache
+C:\Users\38971\source\repos\CargoForYou.Data\obj\Debug\netcoreapp3.1\CargoForYou.Data.AssemblyInfo.cs
+C:\Users\38971\source\repos\CargoForYou.Data\obj\Debug\netcoreapp3.1\CargoForYou.Data.csproj.CoreCompileInputs.cache
+C:\Users\38971\source\repos\CargoForYou.Data\obj\Debug\netcoreapp3.1\CargoForYou.Data.csproj.CopyComplete
+C:\Users\38971\source\repos\CargoForYou.Data\obj\Debug\netcoreapp3.1\CargoForYou.Data.dll
+C:\Users\38971\source\repos\CargoForYou.Data\obj\Debug\netcoreapp3.1\CargoForYou.Data.pdb

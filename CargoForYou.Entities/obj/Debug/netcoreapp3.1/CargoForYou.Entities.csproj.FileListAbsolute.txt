@@ -1,0 +1,8 @@
+C:\Users\38971\source\repos\CargoForYou.Entities\bin\Debug\netcoreapp3.1\CargoForYou.Entities.deps.json
+C:\Users\38971\source\repos\CargoForYou.Entities\bin\Debug\netcoreapp3.1\CargoForYou.Entities.dll
+C:\Users\38971\source\repos\CargoForYou.Entities\bin\Debug\netcoreapp3.1\CargoForYou.Entities.pdb
+C:\Users\38971\source\repos\CargoForYou.Entities\obj\Debug\netcoreapp3.1\CargoForYou.Entities.AssemblyInfoInputs.cache
+C:\Users\38971\source\repos\CargoForYou.Entities\obj\Debug\netcoreapp3.1\CargoForYou.Entities.AssemblyInfo.cs
+C:\Users\38971\source\repos\CargoForYou.Entities\obj\Debug\netcoreapp3.1\CargoForYou.Entities.csproj.CoreCompileInputs.cache
+C:\Users\38971\source\repos\CargoForYou.Entities\obj\Debug\netcoreapp3.1\CargoForYou.Entities.dll
+C:\Users\38971\source\repos\CargoForYou.Entities\obj\Debug\netcoreapp3.1\CargoForYou.Entities.pdb

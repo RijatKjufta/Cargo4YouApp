@@ -1,0 +1,25 @@
+﻿@model CargoDeliveryService.Models.TotalPriceModel
+
+
+
+    <div class="pr">
+
+
+        <h2>Your Total Price is</h2>
+
+        <h1>
+            @Model.TotalPrice &nbsp;€
+        </h1>
+    </div>
+
+
+    <a asp-action="Order"  class="btn btn-secondary" id="Order">
+        <i class="fas fa-edit"></i> &nbsp; &nbsp; Order
+    </a>
+    <a  asp-action="Index"  class="btn btn-info" id="Cancel">
+        <i class="fas fa-info"></i> &nbsp; &nbsp; Cancel
+    </a>
+
+
+
+    <script src="~/js/site.js"></script>

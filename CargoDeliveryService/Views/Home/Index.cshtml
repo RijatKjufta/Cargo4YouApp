@@ -1,0 +1,42 @@
+﻿@model CargoForYou.Entities.PacageProportions
+<div class="text-center">
+    <h1 class="display-4">Welcome To Cargo 4 You</h1>
+    <h2>Enter The Proportions of the Pacage</h2>
+</div>
+
+
+<form asp-action="Result">
+    <div class="row">
+        <div class="col-md-4">
+
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Width" class="control-label" ></label>
+                <input asp-for="Width" id="width" class="form-control" type="number" />
+                <span asp-validation-for="Width" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Height" class="control-label"></label>
+                <input asp-for="Height" id="height" class="form-control" type="number" />
+                <span asp-validation-for="Height" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Depth" class="control-label"></label>
+                <input asp-for="Depth" id="depth" class="form-control" type="number" />
+                <span asp-validation-for="Depth" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Weight" class="control-label"></label>
+                <input asp-for="Weight" id="weight" class="form-control" type="number" />
+                <span asp-validation-for="Weight" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Calculate Shippment" class="btn btn-primary" />
+            </div>
+
+         
+
+        </div>
+    </div>
+</form>
